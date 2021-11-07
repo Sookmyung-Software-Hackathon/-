@@ -87,4 +87,8 @@ html, css, javascript
 
 ## ❄ 시연영상
 
+
+https://user-images.githubusercontent.com/91943160/140654851-66383d50-7641-4e76-b4d1-ec705bc1f76f.mp4
+
+
 [team21_simulation.mp4](%5B%E1%84%90%E1%85%B5%E1%86%B721%5D%20SMSWH%202021%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20c048861c6ff1412b9a29207a79f05d99/team21_simulation.mp4)
