@@ -1,5 +1,6 @@
 # [완] 💙[팀21] SMSWH 2021 기획서
 
+
 # 팀21
 
 컴퓨터과학전공 2010248 김서연 - 팀장
@@ -8,13 +9,16 @@
 
 IT공학전공 2015110 신경원
 
+
 ### ❄산출물 주소
 
 [https://lookforyoursookmyung.netlify.app/](https://lookforyoursookmyung.netlify.app/)
 
+
 ### ❄분야
 
 웹 프론트
+
 
 ## ❄서비스 개요
 
@@ -84,6 +88,8 @@ html, css, javascript
 5-1. 학과 홈페이지 링크를 클릭하면 숙명여대 학교 페이지의 대학 챕터로 이동한다.
 
 5-2. 링크 복사 버튼을 클릭하면 전공 테스트 링크를 복사한다.
+
+
 
 ## ❄ 시연영상
 
